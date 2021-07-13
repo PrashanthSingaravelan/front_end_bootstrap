@@ -1,0 +1,24 @@
+{
+    "name": "assignment_project",
+    "version": "1.0.0",
+    "description": "Project comprising of boot-strap framework",
+    "main": "index.html",
+    "scripts": {
+        "start": "npm run lite",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lite": "lite-server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/PrashanthSingaravelan/front_end_bootstrap.git#main"
+    },
+    "author": "Prashanth Singaravelan",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/PrashanthSingaravelan/front_end_bootstrap/issues"
+    },
+    "homepage": "https://github.com/PrashanthSingaravelan/front_end_bootstrap/tree/main#readme",
+    "devDependencies": {
+        "lite-server": "^2.6.1"
+    }
+}
